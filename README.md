@@ -1,4 +1,4 @@
-### **Bigram Character-Level Name Generation: A Tale of Two Approaches**
+### **Bigram Character-Level Name Generation:**
 
 This project demonstrates two methods for generating new Indian names by learning from a list of 53,982 existing names. The first approach is purely statistical, while the second uses a simple neural network. Ultimately, both methods produce the same results, showcasing how a basic neural network can replicate a classical statistical model.
 
